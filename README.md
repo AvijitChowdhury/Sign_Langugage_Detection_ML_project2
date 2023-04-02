@@ -26,7 +26,8 @@ This project is a solution for this problem. I have used custom dataset for trai
         pip install virtualenv
 
   - create virtual environment by the name venv
-        virtualenv venv
+         
+         virtualenv venv
   - activate ENV
 
         .\venv\Scripts\activate
