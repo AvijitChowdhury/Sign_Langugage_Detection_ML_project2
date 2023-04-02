@@ -1,4 +1,0 @@
-
-Models filter=lfs diff=lfs merge=lfs -text
-NewModels filter=lfs diff=lfs merge=lfs -text
-jupyterfiles filter=lfs diff=lfs merge=lfs -text
