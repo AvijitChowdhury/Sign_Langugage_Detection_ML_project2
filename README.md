@@ -80,5 +80,23 @@ This project is a solution for this problem. I have used custom dataset for trai
 
       deactivate
 
+<h1>Libraries Used: </h1>
+<ul>
+<li>Numpy</li>
+<li>Pandas</li>
+<li>Matplotlib</li>
+<li>tensorflow</li>
+<li>keras</li>
+<li>flask</li>
+</ul>
+<h1><b>WorkFlow</b></h1>
+
+<ol>
+<li>Data Preprocessing</li>
+<li>Rescale & assign categorical designs</li>
+<li>CNN Model</li>
+<li>Splitting Data Into Training and Test Set</li>
+<li>Visulazing Dataset and Determining Training Loss</li>
+</ol>
 
 
