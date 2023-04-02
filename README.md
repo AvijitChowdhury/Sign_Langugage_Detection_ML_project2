@@ -25,11 +25,11 @@ This project is a solution for this problem. I have used custom dataset for trai
 
         pip install virtualenv
 
-  - create virtual environment by the name ENV
-        virtualenv ENV
+  - create virtual environment by the name venv
+        virtualenv venv
   - activate ENV
 
-        .\ENV\Scripts\activate
+        .\venv\Scripts\activate
 
 - Install project dependencies
 
