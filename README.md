@@ -65,6 +65,7 @@ This project is a solution for this problem. I have used custom dataset for trai
         virtualenv ENV
 
   - activate ENV
+  
         source ENV/bin/activate
 
 - Install project dependencies
