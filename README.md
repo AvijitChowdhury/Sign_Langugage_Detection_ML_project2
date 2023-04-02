@@ -87,7 +87,10 @@ This project is a solution for this problem. I have used custom dataset for trai
 <li>Matplotlib</li>
 <li>tensorflow</li>
 <li>keras</li>
-<li>flask</li>
+<li>tkinter</li>
+      <li>hunspell</li>
+      <li>strings</li>
+      <li>openCV</li>
 </ul>
 <h1><b>WorkFlow</b></h1>
 
