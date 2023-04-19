@@ -38,7 +38,7 @@ This project is a solution for this problem. I have used custom dataset for trai
 
 - Run the project
 
-      python app.py
+      python app1.py
 
 - Look for the local host address on Powershell screen, something like: 127.0.0.1:5000 >> Type it on your Web Browser >> Project shall load
 - Try out your Amazon Alexa test reviews and look for results
